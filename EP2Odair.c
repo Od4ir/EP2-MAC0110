@@ -336,7 +336,5 @@ int main() {
         i = 0;
     }
     fclose(arq);
-return 0;
-
-
+    return 0;
 }
